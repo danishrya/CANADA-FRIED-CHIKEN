@@ -25,7 +25,7 @@ button{
 }
 button a{
     text-decoration:none;
-    color: #d2001a;
+    color: #C40C0C;
     font-size: 20px;
     font-family: 'Inter';
     font-weight: 500;
@@ -73,7 +73,8 @@ button a:hover{
     align-items: center;
     border-radius: 3px;
     color: #C40C0C;
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: 500;
     margin: 0 40px;
     text-align: center;
     background-color: #fefefe;

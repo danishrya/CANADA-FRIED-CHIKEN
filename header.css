@@ -111,6 +111,9 @@ list-style: none;
     height: 100%;
 background-color: #FF8A08;
 background-image:url(BACKGROUND_1.png);
+background-size: cover;
+background-repeat: no-repeat;
+
 }
 
 .foto{
@@ -141,8 +144,8 @@ h3{
     padding-bottom: 20px;
     margin-left: 210px;
     margin-right:210px;
-    color: #000000;
     color: #efefef;
+    
 }
 
 .text-2{
@@ -168,7 +171,7 @@ h3{
             }
 
             .btn-paket ul li{
-                background: url(BACKGROUND_1.png);
+                background:#c40c0c;
                 border: none;
                 border-radius: 16px;
                 color: #efefef;
